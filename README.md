@@ -51,7 +51,7 @@ The goal was to uncover business insights by exploring and visualizing data acro
 
 ## 📁 Dataset
 
-Dataset Source: [Sample Superstore - Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Dataset Source: [Sample Superstore - Kaggle]
 
 ---
 
